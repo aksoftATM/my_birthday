@@ -71,7 +71,7 @@ void main() {
 
     test('life season autumn', () {
       final calc = LifeCalculatorService(
-        birthDate: DateTime(1960, 5, 1),
+        birthDate: DateTime(1975, 5, 1),
         lifeExpectancyYears: 80,
       );
       final stats = calc.calculate(DateTime(2025, 3, 19));

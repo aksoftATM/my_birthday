@@ -2,7 +2,7 @@ import WidgetKit
 import SwiftUI
 
 /// Должно совпадать с appGroupId в lib/core/widget/home_widget_service.dart
-private let appGroupId = "group.com.example.mybirthdayApp.widget"
+private let appGroupId = "group.com.aksoft.mybirthday.widget"
 
 // MARK: - Entry
 

@@ -7,7 +7,7 @@ import '../../shared/data/user_profile_repository.dart';
 /// только пишем "сырые" данные профиля в общий App Group storage и
 /// просим систему перерисовать виджет.
 class HomeWidgetService {
-  static const _appGroupId = 'group.com.example.mybirthdayApp.widget';
+  static const _appGroupId = 'group.com.aksoft.mybirthday.widget';
   static const _iosWidgetName = 'BirthdayWidget';
 
   static Future<void> init() async {
